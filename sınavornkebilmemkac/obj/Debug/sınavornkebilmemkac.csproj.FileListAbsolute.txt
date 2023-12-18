@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\sınavornkebilmemkac\sınavornkebilmemkac\bin\Debug\sınavornkebilmemkac.exe.config
+C:\Users\User\source\repos\sınavornkebilmemkac\sınavornkebilmemkac\bin\Debug\sınavornkebilmemkac.exe
+C:\Users\User\source\repos\sınavornkebilmemkac\sınavornkebilmemkac\bin\Debug\sınavornkebilmemkac.pdb
+C:\Users\User\source\repos\sınavornkebilmemkac\sınavornkebilmemkac\obj\Debug\sınavornkebilmemkac.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\sınavornkebilmemkac\sınavornkebilmemkac\obj\Debug\sınavornkebilmemkac.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\sınavornkebilmemkac\sınavornkebilmemkac\obj\Debug\sınavornkebilmemkac.Form1.resources
+C:\Users\User\source\repos\sınavornkebilmemkac\sınavornkebilmemkac\obj\Debug\sınavornkebilmemkac.Properties.Resources.resources
+C:\Users\User\source\repos\sınavornkebilmemkac\sınavornkebilmemkac\obj\Debug\sınavornkebilmemkac.csproj.GenerateResource.cache
+C:\Users\User\source\repos\sınavornkebilmemkac\sınavornkebilmemkac\obj\Debug\sınavornkebilmemkac.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\sınavornkebilmemkac\sınavornkebilmemkac\obj\Debug\sınavornkebilmemkac.exe
+C:\Users\User\source\repos\sınavornkebilmemkac\sınavornkebilmemkac\obj\Debug\sınavornkebilmemkac.pdb
